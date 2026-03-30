@@ -22,3 +22,12 @@ A real-time hand sign detection system built using Convolutional Neural Networks
 
 ## 📂 Project Structure
 
+hand-sign-detection/
+│
+├── train.py
+├── predict.py
+├── utils.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+
