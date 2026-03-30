@@ -19,6 +19,24 @@ A real-time hand sign detection system built using Convolutional Neural Networks
 - NumPy
 
 ---
+## 📦 Dataset
+
+This project uses the ASL Alphabet Dataset.
+
+🔗 Download: https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
+### Setup
+- Extract the dataset
+- Move folders into:
+```
+dataset/
+train/
+test/
+```
+
+Ensure folder structure is correct before training.
+
+---
 
 ## 📂 Project Structure
 ```
